@@ -1,4 +1,5 @@
-# music
+# music测试版
+完整版移步https://github.com/ARO-CO/music
 
 ## Project setup
 ```
